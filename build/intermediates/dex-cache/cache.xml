@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/thaitran/Documents/Android/Ribbit/app/libs/Parse-1.10.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="181b435832725bec96c11ff568bdfbccdacab944">
+        <dex dex="/Users/thaitran/Documents/Android/Ribbit/app/build/intermediates/pre-dexed/debug/Parse-1.10.1-c581fdd98bcffa626864d2f986e1766012d3cac4.jar" />
+    </item>
+    <item
+        jar="/Users/thaitran/Documents/Android/Ribbit/app/libs/ParseCrashReporting-1.10.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0fe2cb2f4a1129a24249cef694cba6355ce97f25">
+        <dex dex="/Users/thaitran/Documents/Android/Ribbit/app/build/intermediates/pre-dexed/debug/ParseCrashReporting-1.10.1-d52a7d2f1512ecd67e4a48b92dad987f4bcc1fd6.jar" />
+    </item>
+    <item
+        jar="/Users/thaitran/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/thaitran/Documents/Android/Ribbit/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-28c7157cc290b3de9404822b28a502356e6a664c.jar" />
+    </item>
+    <item
+        jar="/Users/thaitran/Documents/Android/Ribbit/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/thaitran/Documents/Android/Ribbit/app/build/intermediates/pre-dexed/debug/classes-1e4df1dd940ddc51293c00bd8c36c161f40a657d.jar" />
+    </item>
+    <item
+        jar="/Users/thaitran/Documents/Android/Ribbit/app/libs/ParseTwitterUtils-1.10.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1de2affed3a0320c6e1bc9347e2c9686ab0bcd2d">
+        <dex dex="/Users/thaitran/Documents/Android/Ribbit/app/build/intermediates/pre-dexed/debug/ParseTwitterUtils-1.10.1-f7df791c0c08ccf2be2684bd44fdf35a67c79101.jar" />
+    </item>
+    <item
+        jar="/Users/thaitran/Documents/Android/Ribbit/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/thaitran/Documents/Android/Ribbit/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-9765613f2bff4092b954d5856921ff499921fa93.jar" />
+    </item>
+    <item
+        jar="/Users/thaitran/Documents/Android/Ribbit/app/libs/PPNS-1.10.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c96866b246e963ccc024d81514efc8b4c376b937">
+        <dex dex="/Users/thaitran/Documents/Android/Ribbit/app/build/intermediates/pre-dexed/debug/PPNS-1.10.1-39590217dbb11483f6c88a01539a316ad45cf784.jar" />
+    </item>
+    <item
+        jar="/Users/thaitran/Documents/Android/Ribbit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/thaitran/Documents/Android/Ribbit/app/build/intermediates/pre-dexed/debug/classes-5160e127c00144d3b9f9c6fdecfdf48b1dc608bd.jar" />
+    </item>
+    <item
+        jar="/Users/thaitran/Documents/Android/Ribbit/app/libs/ParseFacebookUtilsV4-1.10.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="81f498fa332ac7dff56ccbbef03e3d9f96ff67c8">
+        <dex dex="/Users/thaitran/Documents/Android/Ribbit/app/build/intermediates/pre-dexed/debug/ParseFacebookUtilsV4-1.10.1-dc84c023fb5cf65e8994a3fa40800c279e74030b.jar" />
+    </item>
+    <item
+        jar="/Users/thaitran/Documents/Android/Ribbit/app/libs/bolts-android-1.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="44780c2cf98f6a3cf4e77f1234d644758b329201">
+        <dex dex="/Users/thaitran/Documents/Android/Ribbit/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.1-48500c14b8ed07b40382204b5d50b34ee1a7bd1f.jar" />
+    </item>
+
+</items>
